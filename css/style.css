@@ -432,13 +432,14 @@ main{position: relative;}
     margin-top: 60px;
 }
 .character .wrap .hochi .hochi-img div{margin-right: 20px;}
-/* .character .wrap .hochi .hochi-img div{margin-right: ;} */
 .character .wrap .hochi .hochi-img div img{}
 
 /* character */
 
 .offer{}
-.offer .wrap{}
+.offer .wrap{
+    padding-bottom: 500px;
+}
 .offer .wrap h3{
     text-align: center;
     font-weight: 700;
@@ -607,7 +608,7 @@ main{position: relative;}
 .media{
     background-color: #ffd8a1;
     padding: 30px 0;
-    margin-top: 550px;
+    margin-top: 150px;
 }
 .media .wrap{}
 .media .wrap h3{
