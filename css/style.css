@@ -12,7 +12,8 @@ img{vertical-align: top;}
 button,input,select{border: 0; background-color:  transparent;}
 button{cursor: pointer;}
 #wrapper{
-    font-family: 'Noto Sans KR';
+    /* font-family: 'Noto Sans KR'; */
+    font-family: 'Noto Sans KR', sans-serif;
 }
 
 /* 공통된 부분 */
